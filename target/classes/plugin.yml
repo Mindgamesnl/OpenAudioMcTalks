@@ -1,0 +1,8 @@
+name: OpenAudioMcTalks
+version: 1.0-SNAPSHOT
+main: nl.mindgamesnl.OpenAudioMcTalks.OpenAudioMcTalks
+prefix: OaSpeaker
+depend: [OpenAudioMc]
+authors: [Mindgamesnl]
+description: Make openaudio talk!
+website: https://craftmend.com
